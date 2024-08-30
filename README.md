@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Kenan Gain</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -10,57 +10,26 @@
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Technical Trainer | Coder | Tech Enthusiast
 </p>
 
 <div align="center">
 <table>
   <tr>
+   
     <td align="center">
-      <a href="" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">

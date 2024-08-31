@@ -32,8 +32,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://github.com/RAFIKSHA" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="RAFIKSHA">
       </a>
     </td>
   </tr>
@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA &color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 

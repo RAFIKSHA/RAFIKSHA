@@ -234,13 +234,16 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
 </p>
 
-<!--<h3 align="center">Steam Profile</h3>
+<!--
+<h3 align="center">Steam Profile</h3>
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
+    <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
   </a>
-</p>-->
-   <!--
+</p>
+-->
+
+<!--
 <table>
   <tr>
     <!-- Dev Profile Header -->
@@ -251,27 +254,30 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <th align="center">
       roadmap.sh Profile
     </th>
-  </tr>-->
+  </tr>
+  
+  <!--
   <tr>
     <!-- Dev Profile -->
-      <!-- <td align="center">
+    <td align="center">
       <a href="https://app.daily.dev/kenangain">
         <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
       </a>
-    </td>-->
+    </td>
+    
     <!-- roadmap.sh Profile -->
-      <!-- <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+    <td align="center">
+      <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/>
+      </a>
     </td>
   </tr>
+  -->
 </table>
--->
 
+    <!-- <h3 align="center">Stack overflow</h3>
 
-
-<h3 align="center">Stack overflow</h3>
-
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409)](https://stackoverflow.com/users/21519409/kenan-gain)
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409)](https://stackoverflow.com/users/21519409/kenan-gain)-->
 
 
 

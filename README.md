@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/RAFIKSHA" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2RAFIKSHA&size=square" alt="RAFIKSHA">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=%2RAFIKSHA&size=square" alt="RAFIKSHA">
       </a>
     </td>
   </tr>
